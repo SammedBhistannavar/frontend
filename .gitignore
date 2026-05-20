@@ -51,7 +51,6 @@ eggs/
 *.pkl
 *.h5
 *.onnx
-models/
 embeddings/
 chroma_db/
 vector_store/
